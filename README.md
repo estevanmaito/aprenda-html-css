@@ -3401,8 +3401,6 @@ Mas, ainda há o que fazer. Alguns estilos são repetidos ao longo do CSS e pode
 
 Não se esqueça de prefixar as propriedades necessárias. O Autoprefixer pode te ajudar nessa tarefa.
 
-Agora que você já tem o que precisa para, inclusive, iniciar uma nova carreira, eu gostaria de pedir dois minutos seus para me enviar um feedback sobre o livro. Pode enviar para o meu e-mail pessoal que eu terei prazer em responder: ejmaito+feedback@gmail.com
-
 
 [Link can i use]: http://caniuse.com/#search=flex
 [Link anuncio Microsoft]: https://www.microsoft.com/pt-br/WindowsForBusiness/End-of-IE-support
