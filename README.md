@@ -1,5 +1,7 @@
 # Aprenda HTML e CSS
 
+Leia em uma página separada se achar melhor em https://estevanmaito.github.io/aprenda-html-css
+
 ### ⚠️⚠️⚠️ ATENÇÃO ⚠️⚠️⚠️
 
 Os exercícios ainda estão sendo recriados. Para receber atualizações desse repo, clique em **Watch** ao lado do **Star** (pode clicar nesse tb 😏).
